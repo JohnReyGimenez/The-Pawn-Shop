@@ -3,6 +3,7 @@
 ## A casual online chess platform designed for players of all levels. 
 
 features:
+
 *Multiplayer Matches
 
 *Real time game feedback through AI
