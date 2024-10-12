@@ -8,8 +8,8 @@ document.addEventListener("DOMContentLoaded", function() {
         showSection('dashboard')
     });
 
-});
+})
 
 function showSection () {
-    
+    const sections = document.querySelector(".section")
 }
