@@ -12,4 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function showSection () {
     const sections = document.querySelector(".section")
+    sections.foreach(section => {
+        section.style.display = 'none';
+    })
 }
